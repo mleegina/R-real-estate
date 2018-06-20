@@ -1,0 +1,6 @@
+_MACOSX/
+.DS_Store
+.Rapp.history
+.RData
+.Rhistory
+.Rproj.user/
