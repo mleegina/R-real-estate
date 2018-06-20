@@ -11,6 +11,7 @@ To replicate the results use [R Studio](https://www.rstudio.com) and open Zillow
 ### Graph 1: WA Counties - Growth
 
 ![WA img](https://github.com/mleegina/R-real-estate/blob/master/Graphs/wa.png)
+  
   This hows the greatest increase in price over the course of 7 years. 
   My hometown is one of the ones in red, and I have seen enormous growth.
 
